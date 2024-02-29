@@ -1,2 +1,3 @@
-user_input = input("Enter your message: ") #request user to enter a message
-print("You entered:", user_input) #print the message entered by the user
+
+massage_user = input("Enter your message: ") #request user to enter a message
+print("You entered:", message_user) #print the message entered by the user
